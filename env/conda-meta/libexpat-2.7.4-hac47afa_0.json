@@ -1,0 +1,50 @@
+{
+    "arch": "x86_64",
+    "build": "hac47afa_0",
+    "build_number": 0,
+    "build_string": "hac47afa_0",
+    "channel": "conda-forge",
+    "constrains": [
+        "expat 2.7.4.*"
+    ],
+    "depends": [
+        "ucrt >=10.0.20348.0",
+        "vc >=14.3,<15",
+        "vc14_runtime >=14.44.35208"
+    ],
+    "extracted_package_dir": "C:\\ProgramData\\miniforge3\\pkgs\\libexpat-2.7.4-hac47afa_0",
+    "files": [
+        "Library/bin/libexpat.dll"
+    ],
+    "fn": "libexpat-2.7.4-hac47afa_0.conda",
+    "license": "MIT",
+    "license_family": "MIT",
+    "link": {
+        "source": "C:\\ProgramData\\miniforge3\\pkgs\\libexpat-2.7.4-hac47afa_0",
+        "type": 1
+    },
+    "md5": "1c1ced969021592407f16ada4573586d",
+    "name": "libexpat",
+    "package_tarball_full_path": "C:\\ProgramData\\miniforge3\\pkgs\\libexpat-2.7.4-hac47afa_0.tar.bz2",
+    "paths_data": {
+        "paths": [
+            {
+                "_path": "Library/bin/libexpat.dll",
+                "path_type": "hardlink",
+                "sha256": "790afabae368a0bea45d6f1880449cab7f823202a5a007c7b6e77506287ab1fc",
+                "sha256_in_prefix": "790afabae368a0bea45d6f1880449cab7f823202a5a007c7b6e77506287ab1fc",
+                "size_in_bytes": 264192
+            }
+        ],
+        "paths_version": 1
+    },
+    "platform": "win",
+    "requested_spec": "",
+    "sha256": "b31f6fb629c4e17885aaf2082fb30384156d16b48b264e454de4a06a313b533d",
+    "size": 70323,
+    "subdir": "win-64",
+    "timestamp": 1771259521,
+    "track_features": "",
+    "url": "https://conda.anaconda.org/conda-forge/win-64/libexpat-2.7.4-hac47afa_0.conda",
+    "version": "2.7.4"
+}

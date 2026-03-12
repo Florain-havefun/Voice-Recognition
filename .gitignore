@@ -1,0 +1,90 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# 模型文件
+models/*.zip
+models/*.tmp
+!models/vosk-model-small-cn-0.22/
+
+# 日志文件
+*.log
+logs/
+
+# 配置文件
+config.json
+*.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 临时文件
+temp/
+tmp/
+*.tmp
+*.temp
+
+# 数据库
+*.db
+*.sqlite
+*.sqlite3
+
+# 测试覆盖
+.coverage
+htmlcov/
+.pytest_cache/
+
+# 文档
+_site/
+.sass-cache/
+.jekyll-cache/
+
+# 打包
+*.exe
+*.msi
+*.dmg
+*.pkg
+*.deb
+*.rpm
+
+# 音频文件（测试用）
+*.wav
+*.mp3
+*.ogg
+*.flac
+
+# 自定义
+recognition_history.db
+speech_recognition.log
+debug.log

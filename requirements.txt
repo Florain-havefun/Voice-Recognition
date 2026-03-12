@@ -1,0 +1,5 @@
+vosk>=0.3.45
+sounddevice>=0.4.6
+pyaudio>=0.2.11
+numpy>=1.21.0
+requests>=2.28.0
